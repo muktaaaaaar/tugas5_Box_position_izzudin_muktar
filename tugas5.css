@@ -1,0 +1,53 @@
+.div {
+    display: flex;
+}
+
+.box1 {
+    background-color: chartreuse;
+    border: 5px solid black;
+    margin: 20px;
+    float: right;
+    width: 20%;
+    height: 500px;
+    
+}
+.box2 {
+    background-color: rgb(255, 51, 0);
+    border: 5px solid black;
+    margin: 20px;
+    float: right;
+    width: 20%;
+    height: 500px;
+}
+.box3 {
+    background-color: blue;
+    border: 5px solid black;
+    margin: 20px;
+    float: right;
+    width: 20%;
+    height: 500px;
+}
+.box4 {
+    background-color: gray;
+    border: 5px solid black;
+    margin: 20px;
+    width: 20%;
+    height: 500px;
+    float: right;
+}
+#p1 {
+    text-align: center;
+    margin-top: 50%;
+}
+#p2 {
+    text-align: center;
+    margin-top: 50%;
+}
+#p3 {
+    text-align: center;
+    margin-top: 50%;
+}
+#p4 {
+    text-align: center;
+    margin-top: 50%;
+}
